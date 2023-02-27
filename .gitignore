@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+/personal-portfolio/.next/
+/personal-portfolio/node_modules/
